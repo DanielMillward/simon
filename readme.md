@@ -1,0 +1,1 @@
+Readme for the Simon project for cs260.
